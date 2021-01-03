@@ -8,6 +8,23 @@ sites:
     url: https://www.google.com
   - name: Eczazone
     url: https://eczazone.com
+  - name: Dermazone
+    url: https://dermazone.org
+  - name: KBBZone
+    url: https://kbbzone.com
+  - name: KVCZone
+    url: https://kvczone.com
+  - name: Psikezone
+    url: https://psikezone.com
+  - name: Ortopedizone
+    url: https://ortopedizone.com
+  - name: FTRZone
+    url: https://ftrzone.com
+  - name: Norozone
+    url: https://norozone.com
+assignees:
+  - d35k
+  - jnbn
 status-website:
   baseUrl: /uptime-bot # where "repo" is your repository name
   name: Demo Uptime Bot
