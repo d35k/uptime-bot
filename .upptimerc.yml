@@ -27,5 +27,8 @@ assignees:
   - jnbn
 status-website:
   baseUrl: /uptime-bot # where "repo" is your repository name
-  logoUrl: "https://epigra.com/themes/epigra-2017/assets/images/logo.svg"
-  name: "Epigra Test Uptime Bot"
+  logoUrl: https://epigra.com/themes/epigra-2017/assets/images/logo.svg
+  name: Epigra Test Uptime Bot
+  introTitle: "**Epigra** is İstanbul based full service digital agency with a deep passion in helping clients to achieve great results and make their brands grow"
+  introMessage: This website is only testing for new features of Upptime bot to compare other services such as uptimebot.
+
