@@ -8,3 +8,6 @@ sites:
     url: https://www.google.com
   - name: Eczazone
     url: https://eczazone.com
+status-website:
+  baseUrl: /uptime-bot # where "repo" is your repository name
+  name: Demo Uptime Bot
