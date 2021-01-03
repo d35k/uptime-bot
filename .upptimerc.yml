@@ -27,4 +27,5 @@ assignees:
   - jnbn
 status-website:
   baseUrl: /uptime-bot # where "repo" is your repository name
-  name: Demo Uptime Bot
+  logoUrl: "https://epigra.com/themes/epigra-2017/assets/images/logo.svg"
+  name: "Epigra Test Uptime Bot"
