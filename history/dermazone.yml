@@ -1,7 +1,7 @@
 url: https://dermazone.org
-status: up
-code: 200
-responseTime: 1790
-lastUpdated: 2022-02-05T23:29:01.179Z
+status: down
+code: 500
+responseTime: 1621
+lastUpdated: 2022-02-06T01:22:38.460Z
 startTime: Sun Jan 03 2021 16:03:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
