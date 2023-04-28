@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 84,
-    "timeWeek": 119,
-    "timeMonth": 93,
+    "timeDay": 110,
+    "timeWeek": 122,
+    "timeMonth": 94,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -25,14 +25,14 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.64%",
+    "uptimeWeek": "50.93%",
     "uptimeMonth": "83.30%",
     "uptimeYear": "97.74%",
-    "time": 1336,
-    "timeDay": 1185,
-    "timeWeek": 1271,
-    "timeMonth": 1507,
-    "timeYear": 1283,
+    "time": 1337,
+    "timeDay": 1143,
+    "timeWeek": 1245,
+    "timeMonth": 1495,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2023-04-24": 714,
       "2023-04-23": 1440,
@@ -57,8 +57,7 @@
       "2022-05-13": 88,
       "2022-05-12": 27,
       "2022-05-09": 24,
-      "2022-05-05": 42,
-      "2022-04-28": 19
+      "2022-05-05": 42
     }
   },
   {
@@ -67,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dermazone.org.ico",
     "slug": "dermazone",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.28%",
+    "uptimeWeek": "50.57%",
     "uptimeMonth": "83.27%",
-    "uptimeYear": "97.64%",
-    "time": 1832,
-    "timeDay": 1308,
-    "timeWeek": 1338,
-    "timeMonth": 1651,
-    "timeYear": 1614,
+    "uptimeYear": "97.67%",
+    "time": 1831,
+    "timeDay": 1093,
+    "timeWeek": 1289,
+    "timeMonth": 1639,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2023-04-24": 749,
       "2023-04-23": 1440,
@@ -104,8 +103,7 @@
       "2022-05-09": 23,
       "2022-05-05": 42,
       "2022-04-30": 140,
-      "2022-04-29": 121,
-      "2022-04-28": 141
+      "2022-04-29": 121
     }
   },
   {
@@ -120,10 +118,10 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.12%",
     "time": 1327,
-    "timeDay": 1139,
-    "timeWeek": 1365,
-    "timeMonth": 1420,
-    "timeYear": 1276,
+    "timeDay": 1093,
+    "timeWeek": 1338,
+    "timeMonth": 1409,
+    "timeYear": 1275,
     "dailyMinutesDown": {
       "2023-04-24": 137,
       "2023-03-07": 117,
@@ -144,8 +142,7 @@
       "2022-05-13": 88,
       "2022-05-12": 27,
       "2022-05-09": 23,
-      "2022-05-05": 42,
-      "2022-04-28": 19
+      "2022-05-05": 42
     }
   },
   {
@@ -156,14 +153,14 @@
     "status": "up",
     "uptime": "98.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.28%",
+    "uptimeWeek": "50.57%",
     "uptimeMonth": "83.22%",
     "uptimeYear": "97.76%",
-    "time": 1342,
-    "timeDay": 1198,
-    "timeWeek": 1287,
-    "timeMonth": 1440,
-    "timeYear": 1299,
+    "time": 1341,
+    "timeDay": 1164,
+    "timeWeek": 1262,
+    "timeMonth": 1430,
+    "timeYear": 1298,
     "dailyMinutesDown": {
       "2023-04-24": 749,
       "2023-04-23": 1440,
@@ -186,8 +183,7 @@
       "2022-05-13": 88,
       "2022-05-12": 27,
       "2022-05-09": 24,
-      "2022-05-05": 42,
-      "2022-04-28": 19
+      "2022-05-05": 42
     }
   },
   {
@@ -196,18 +192,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/psikezone.com.ico",
     "slug": "psikezone",
     "status": "down",
-    "uptime": "99.09%",
+    "uptime": "98.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.36%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "98.44%",
-    "time": 1306,
+    "uptimeWeek": "48.07%",
+    "uptimeMonth": "88.05%",
+    "uptimeYear": "98.16%",
+    "time": 1305,
     "timeDay": 0,
-    "timeWeek": 1524,
-    "timeMonth": 1516,
-    "timeYear": 1244,
+    "timeWeek": 1515,
+    "timeMonth": 1518,
+    "timeYear": 1243,
     "dailyMinutesDown": {
-      "2023-04-27": 87,
+      "2023-04-28": 87,
+      "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 828,
@@ -226,8 +223,7 @@
       "2022-05-13": 88,
       "2022-05-12": 27,
       "2022-05-09": 24,
-      "2022-05-05": 42,
-      "2022-04-28": 18
+      "2022-05-05": 42
     }
   },
   {
@@ -242,10 +238,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 1319,
-    "timeDay": 1262,
-    "timeWeek": 1306,
-    "timeMonth": 1487,
-    "timeYear": 1261,
+    "timeDay": 1100,
+    "timeWeek": 1275,
+    "timeMonth": 1474,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2023-03-07": 116,
       "2023-02-28": 28,
@@ -262,8 +258,7 @@
       "2022-05-13": 88,
       "2022-05-12": 27,
       "2022-05-09": 24,
-      "2022-05-05": 41,
-      "2022-04-28": 18
+      "2022-05-05": 41
     }
   },
   {
@@ -278,10 +273,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
     "time": 1323,
-    "timeDay": 1195,
-    "timeWeek": 1306,
-    "timeMonth": 1415,
-    "timeYear": 1267,
+    "timeDay": 1123,
+    "timeWeek": 1280,
+    "timeMonth": 1405,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2023-03-07": 115,
       "2023-02-28": 28,
@@ -298,8 +293,7 @@
       "2022-05-13": 88,
       "2022-05-12": 27,
       "2022-05-09": 24,
-      "2022-05-05": 41,
-      "2022-04-28": 18
+      "2022-05-05": 41
     }
   },
   {
@@ -308,18 +302,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/norozone.com.ico",
     "slug": "norozone",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "47.22%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "99.01%",
+    "uptime": "99.22%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "78.17%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "98.73%",
     "time": 1334,
     "timeDay": 0,
-    "timeWeek": 1530,
-    "timeMonth": 1538,
-    "timeYear": 1291,
+    "timeWeek": 1521,
+    "timeMonth": 1533,
+    "timeYear": 1290,
     "dailyMinutesDown": {
-      "2023-04-27": 87,
+      "2023-04-28": 87,
+      "2023-04-27": 1440,
       "2023-04-26": 673,
       "2023-03-07": 115,
       "2023-02-28": 27,
