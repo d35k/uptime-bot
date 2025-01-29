@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 127,
     "timeYear": 108,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-05-01": 23
     }
   },
@@ -140,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/psikezone.com.ico",
     "slug": "psikezone",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
