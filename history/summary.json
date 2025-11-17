@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 75,
-    "timeWeek": 97,
-    "timeMonth": 98,
-    "timeYear": 108,
+    "time": 110,
+    "timeDay": 1397,
+    "timeWeek": 281,
+    "timeMonth": 141,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
-    "time": 1515,
-    "timeDay": 1435,
-    "timeWeek": 1649,
-    "timeMonth": 1517,
-    "timeYear": 1513,
+    "time": 1516,
+    "timeDay": 1885,
+    "timeWeek": 1689,
+    "timeMonth": 1533,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2025-11-11": 16,
       "2025-11-04": 38,
@@ -43,8 +43,7 @@
       "2025-06-06": 34,
       "2025-03-16": 35,
       "2025-03-05": 18,
-      "2025-01-23": 71,
-      "2024-11-17": 65
+      "2025-01-23": 71
     }
   },
   {
@@ -53,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dermazone.org.ico",
     "slug": "dermazone",
     "status": "up",
-    "uptime": "91.98%",
+    "uptime": "91.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "64.11%",
-    "time": 1482,
-    "timeDay": 1555,
-    "timeWeek": 1676,
-    "timeMonth": 1731,
-    "timeYear": 1481,
+    "time": 1484,
+    "timeDay": 1920,
+    "timeWeek": 1699,
+    "timeMonth": 1742,
+    "timeYear": 1482,
     "dailyMinutesDown": {
       "2025-11-04": 38,
       "2025-07-14": 531,
@@ -197,8 +196,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 746,
-      "2025-01-23": 71,
-      "2024-11-17": 65
+      "2025-01-23": 71
     }
   },
   {
@@ -207,16 +205,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kbbzone.com.ico",
     "slug": "kbb-zone",
     "status": "up",
-    "uptime": "92.32%",
+    "uptime": "92.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "64.11%",
-    "time": 1405,
-    "timeDay": 1559,
-    "timeWeek": 1606,
-    "timeMonth": 1673,
-    "timeYear": 1419,
+    "time": 1406,
+    "timeDay": 1786,
+    "timeWeek": 1652,
+    "timeMonth": 1680,
+    "timeYear": 1421,
     "dailyMinutesDown": {
       "2025-11-04": 38,
       "2025-07-14": 499,
@@ -351,8 +349,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 746,
-      "2025-01-23": 71,
-      "2024-11-17": 65
+      "2025-01-23": 71
     }
   },
   {
@@ -361,16 +358,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kvczone.com.ico",
     "slug": "kvc-zone",
     "status": "up",
-    "uptime": "92.04%",
+    "uptime": "92.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "64.11%",
     "time": 1533,
-    "timeDay": 1596,
-    "timeWeek": 1643,
-    "timeMonth": 1677,
-    "timeYear": 1523,
+    "timeDay": 1770,
+    "timeWeek": 1670,
+    "timeMonth": 1690,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2025-11-04": 38,
       "2025-07-14": 531,
@@ -505,8 +502,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 746,
-      "2025-01-23": 70,
-      "2024-11-17": 65
+      "2025-01-23": 70
     }
   },
   {
@@ -520,11 +516,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.79%",
-    "time": 1650,
-    "timeDay": 1264,
-    "timeWeek": 1592,
-    "timeMonth": 1598,
-    "timeYear": 1708,
+    "time": 1651,
+    "timeDay": 1442,
+    "timeWeek": 1527,
+    "timeMonth": 1601,
+    "timeYear": 1709,
     "dailyMinutesDown": {
       "2025-11-04": 38,
       "2025-11-02": 21,
@@ -535,8 +531,7 @@
       "2025-06-07": 83,
       "2025-06-06": 17,
       "2025-03-05": 16,
-      "2025-01-23": 70,
-      "2024-11-17": 65
+      "2025-01-23": 70
     }
   },
   {
@@ -550,17 +545,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
-    "time": 1621,
-    "timeDay": 1914,
-    "timeWeek": 1657,
-    "timeMonth": 1668,
-    "timeYear": 1642,
+    "time": 1618,
+    "timeDay": 1835,
+    "timeWeek": 1669,
+    "timeMonth": 1678,
+    "timeYear": 1645,
     "dailyMinutesDown": {
       "2025-11-04": 38,
       "2025-06-07": 95,
       "2025-03-05": 16,
-      "2025-01-23": 69,
-      "2024-11-17": 65
+      "2025-01-23": 69
     }
   },
   {
@@ -575,16 +569,15 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
     "time": 1696,
-    "timeDay": 1535,
-    "timeWeek": 1706,
-    "timeMonth": 1727,
-    "timeYear": 1784,
+    "timeDay": 1831,
+    "timeWeek": 1683,
+    "timeMonth": 1738,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2025-11-04": 38,
       "2025-06-07": 94,
       "2025-03-05": 16,
-      "2025-01-23": 69,
-      "2024-11-17": 65
+      "2025-01-23": 69
     }
   },
   {
@@ -593,22 +586,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/norozone.com.ico",
     "slug": "norozone",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
     "time": 1523,
-    "timeDay": 1236,
+    "timeDay": 1500,
     "timeWeek": 1404,
-    "timeMonth": 1410,
+    "timeMonth": 1417,
     "timeYear": 1516,
     "dailyMinutesDown": {
       "2025-11-04": 38,
       "2025-06-07": 68,
       "2025-03-05": 15,
-      "2025-01-23": 68,
-      "2024-11-17": 64
+      "2025-01-23": 68
     }
   }
 ]
