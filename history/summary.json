@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 701,
     "timeWeek": 650,
     "timeMonth": 284,
     "timeYear": 124,
-    "dailyMinutesDown": {
-      "2025-12-09": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eczazone",
